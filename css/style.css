@@ -137,3 +137,17 @@ h3{
   text-transform: uppercase;
   font-weight: 600;
 }
+
+@media (min-width: 768px){
+  #description-text{
+
+    padding-left: 102px;
+  }
+}
+@media (min-width: 1200px){
+  #description-text{
+    padding-left: 45px;
+    padding-top: 61px;
+  }
+
+}
