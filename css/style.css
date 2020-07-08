@@ -5,18 +5,10 @@ body{
   font-family:font-family: 'Roboto', sans-serif;
 
 }
-#full-width{
-  width: 100%
 
-  background-color: white;
-  background-size: cover;
-  margin : 10px auto;
-  overflow: hidden;
-
-}
 #description-image{
   padding-left: 45px;
-  padding-top: 20px;
+  padding-top: 45px;
 }
 #description-text{
   padding-top: 40px;
