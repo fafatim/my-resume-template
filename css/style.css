@@ -8,11 +8,11 @@ body{
 
 #description-image{
   padding-left: 45px;
-  padding-top: 45px;
+  padding-top: 10px;
 }
 #description-text{
-  padding-top: 40px;
-  padding-left: 40px;
+  padding-top: 30px;
+  padding-left: 50px;
 }
 #name{
   color:#122b40;
